@@ -2,4 +2,4 @@ version: STSv1
 mode: enforce
 mx: willingdonschool-org-uk.mail.protection.outlook.com
 mx: student-willingdonschool-org-uk.mail.protection.outlook.com
-max_age: 604800
+max_age: 1209600
